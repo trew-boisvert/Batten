@@ -1,4 +1,6 @@
 1. Generate naming conventions for variable (keep scalability/clarity in mind)
+    What variables will I need?
+        Play with calculator function in REPL, figure out number of variables
 2. Wireframe app:
     Homepage
         Explains use of app
