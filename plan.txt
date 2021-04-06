@@ -1,0 +1,25 @@
+1. Generate naming conventions for variable (keep scalability/clarity in mind)
+2. Wireframe app:
+    Homepage
+        Explains use of app
+        Create images to show how to take measurements
+        Explains about hardware types
+        Explains different styles of shades
+        Explain about valences
+    Calculator (Flat Roman Shades)
+        Calculates for one window
+        (Nice to have) Calculates for multiple windows, shows best spacing for different sized windows.
+        Displays measurements/pleat spacing on separate, easy to print page
+        (Nice to have) Calculates fabric yardage
+    Calculator (Hobbled Roman Shades)
+        Calculates for one window
+        (Nice to have) Calculates for multiple windows, shows best spacing for different sized windows.
+        Displays measurements/pleat spacing on separate, easy to print page
+        (Nice to have) Calculates fabric yardage
+    (Nice to have)Fabric About
+        Describe fabric properties, recommend fabric choices based on decor goal
+        Add fabric info stylists usually don't know (wool changes length in humidity, linen wrinkles, etc.)
+3. Figure out best data structure for measurements (list of lists?)
+4. Add to requirements.txt and pip3 install 
+
+    
