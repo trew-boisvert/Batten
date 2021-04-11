@@ -3,6 +3,8 @@
         Play with calculator function in REPL, figure out number of variables
         Finish React Lab, examine variables
 2.Rules for Git commits:
+    Write imperatively! (Do this, fix that, etc)
+        (If applied, this commit will...)
     Capitalize Subject Line, separate from body with blank line, keep it short.
     (Small/simple commits might only need a subject line)
     Use body to explain what and why, not how
