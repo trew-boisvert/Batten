@@ -2,7 +2,15 @@
     What variables will I need?
         Play with calculator function in REPL, figure out number of variables
         Finish React Lab, examine variables
-2. Wireframe app:
+2.Rules for Git commits:
+    Capitalize Subject Line, separate from body with blank line, keep it short.
+    (Small/simple commits might only need a subject line)
+    Use body to explain what and why, not how
+        What side effects are there?
+        Unintuitive consequences?
+
+
+3. Wireframe app:
     Homepage
         Explains use of app
         Create images to show how to take measurements
@@ -22,7 +30,7 @@
     (Nice to have)Fabric About
         Describe fabric properties, recommend fabric choices based on decor goal
         Add fabric info stylists usually don't know (wool changes length in humidity, linen wrinkles, etc.)
-3. Figure out best data structure for measurements (list of lists?)
-4. Add to requirements.txt and pip3 install 
+4. Figure out best data structure for measurements (list of lists?)
+5. Add to requirements.txt and pip3 install 
 
     
