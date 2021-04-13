@@ -10,8 +10,6 @@
     Use body to explain what and why, not how
         What side effects are there?
         Unintuitive consequences?
-
-
 3. Wireframe app:
     Homepage
         Explains use of app
@@ -32,7 +30,10 @@
     (Nice to have)Fabric About
         Describe fabric properties, recommend fabric choices based on decor goal
         Add fabric info stylists usually don't know (wool changes length in humidity, linen wrinkles, etc.)
-4. Figure out best data structure for measurements (list of lists?)
+4. Figure out best data structure for measurements (list of lists? dictionary of lists?)
+    Data won't change
+    Might need to add to measurements later
+    Need to be able to iterate through all measurements
 5. Add to requirements.txt and pip3 install 
 
     
