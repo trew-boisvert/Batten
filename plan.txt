@@ -32,6 +32,7 @@
         Add fabric info stylists usually don't know (wool changes length in humidity, linen wrinkles, etc.)
         Explain yardage calculations for plain fabric vs printed/patterned fabric
         Give advice about where to place seams on large windows, sets of windows
+        How to take measurements for inside mount vs outside mount
 4. Figure out best data structure for measurements (list of lists? dictionary of lists?)
     Data won't change
     Might need to add to measurements later
