@@ -1,7 +1,7 @@
 1. Generate naming conventions for variable (keep scalability/clarity in mind)
     What variables will I need?
         Play with calculator function in REPL, figure out number of variables
-        Finish React Lab, examine variables
+        Finish React tutorials from React Docs
 2.Rules for Git commits:
     Write imperatively! (Do this, fix that, etc)
         (If applied, this commit will...)
