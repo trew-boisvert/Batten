@@ -2,6 +2,15 @@
     What variables will I need?
         Play with calculator function in REPL, figure out number of variables
         Finish React tutorials from React Docs
+    Potential Components:
+        Calculator Container
+            Input Form
+                Query Row
+                Submit Button
+                Reset Form Button
+            Results Table
+                Result Category Row
+                Result Row
 2.Rules for Git commits:
     Write imperatively! (Do this, fix that, etc)
         (If applied, this commit will...)
