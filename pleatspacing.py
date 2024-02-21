@@ -25,11 +25,17 @@ pleatChart = {'First Row: 4 Next Rows: 8': [4, 12, 20, 28, 36, 44, 52, 60, 68, 7
                     'First Row: 7 Next Rows 14': [7, 21, 35, 49, 63, 77, 91, 105, 119, 133, 147, 161, 175, 189, 203]}
 
 def calculate_pleats(shade_length):
-    result = []
+    result = {'exact_match': [],
+              'good_match': [],
+              'okay_match': []}
     for spacing in pleatChart:
         for num in pleatChart[spacing]:
             if num == shade_length:
-                result.append(spacing)
+                result['exact_match'].append(spacing)
+            elif abs(shade_length - num) < 1:
+                result['good_match'].append(spacing)
+            elif abs(shade_length - num) < 2:
+                result['okay_match'].append(spacing)
     print(result)
 
 calculate_pleats(102)
